@@ -1,13 +1,7 @@
 Milestone 1:
 
-To view the source code, download the NUSxam.zip file
+To view the source code, download the NUSxam.zip file under "master" branch. (by default it is "main").
 To try out the application, download the NUSxam.exe file (It is totally safe!)
-
-NOTE: 
-Currently, the application only supports login/registration when connected to NUS Wifi. 
-Please ensure that you are connected to NUS Wifi or using nVPN.
-Details for download and setting up nVPN can be found at this link: https://nusit.nus.edu.sg/services/wifi_internet/nvpn/
-
 
 README:
 https://docs.google.com/document/d/1hc58wFx3QEt2yntLftGhTxnSBl4Zus49ild1sP2LXpo/edit
