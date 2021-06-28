@@ -1,9 +1,9 @@
 Milestone 2:
 
-To try out the application, download the NUSxam.zip file. Unzip the file, and find the NUSxam_v1.exe inside the folder. Please do not delete other files inside. You may need to 
-disable your antivirus when running the application. The application is totally safe, do not worry! :)
-
 Unfortunately, our application is built using a window form application. Although it is .Net Core, it does not allow running on macOS.
+
+To try out the application on Windows, download the NUSxam.zip file. Unzip the file, and find the NUSxam_v1.exe inside the folder. Please do not delete other files inside. You may need to 
+disable your antivirus when running the application. The application is totally safe, do not worry! :)
 
 Take note that for laptops with aspect ratio 16:9, the best resolution is 125%. If you encountered any problem of displaying issues, do consider changing the resolution.
 For laptops with aspect ratio 16:10, the best resolution is 150%. If you encountered any problem of displaying issues, do consider changing the resolution.
