@@ -1,6 +1,6 @@
-Milestone 2:
+Milestone 3:
 
-Unfortunately, our application is built using a window form application. Although it is .Net Core, it does not allow running on macOS.
+The application is built using a window form application. Although it is .Net Core, it does not allow running on macOS.
 
 To try out the application on Windows, download the NUSxam.zip file. Unzip the file, and find the NUSxam_v1.exe inside the folder. Please do not delete other files inside. You may need to 
 disable your antivirus when running the application. The application is totally safe, do not worry! :)
@@ -13,7 +13,7 @@ Links for README:
 https://docs.google.com/document/d/1FesfCp24ygcqKy99x0phLNnc-GckdNa1eB0HCWafQuI/edit?usp=sharing
 
 Links for Project Log:
-https://docs.google.com/document/d/15iZdR5fpBlfsbQSJnkrGkYzsRt-V2GkMWkjjMEZCOiY/edit
+https://docs.google.com/document/d/1vRMemdxmN_hGFWAGw9D-GCgZvrNmZPymDyxbDcUBeZA/edit?usp=sharing
 
 Links for Video:
 https://drive.google.com/file/d/1_YxaqRqI8U1EQQ0a2gm7ii03694vPa-B/view?usp=sharing
