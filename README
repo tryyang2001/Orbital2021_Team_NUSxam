@@ -1,5 +1,4 @@
 NUSxam (CP2106 Orbital Project)
-Milestone 3:
 
 The application is built using a window form application. Although it is .Net Core, it does not allow running on macOS.
 
@@ -11,6 +10,7 @@ Take note that for laptops with aspect ratio 16:9, the best resolution is 125%.
 For laptops with aspect ratio 16:10, the best resolution is 150%. 
 If you encountered any problem of displaying issues, do consider changing the resolution. 
 
+We uses free version of Azure database system, which would expires someday and then the application might not work anymore.
 
 Links for README:
 https://docs.google.com/document/d/1qrWTM8qd827sA4PeY5BsYtDQv6ZNjrm_ojG-3TnCrXc/edit
@@ -19,7 +19,7 @@ Links for Project Log:
 https://docs.google.com/document/d/1vRMemdxmN_hGFWAGw9D-GCgZvrNmZPymDyxbDcUBeZA/edit
 
 Links for Video:
-https://drive.google.com/file/d/1um_w4a6oHYmJCS1-DBa0QlZ5IYemUxLL/view?usp=sharing
+https://drive.google.com/file/d/1lAj84bWGqCIG9QgFE_G0NSPykVy3FTyI/view?usp=sharing
 
 Links for Poster:
-https://drive.google.com/file/d/1CQHHrahekNgCZcTPRhIRiKNAvmi9Y5Nz/view?usp=sharing
+https://drive.google.com/file/d/1e8m5pzJU6VApdZgJU5UPnUNVkecObmgI/view?usp=sharing
